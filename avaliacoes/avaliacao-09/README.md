@@ -44,15 +44,15 @@ Responda as seguintes questões:
 11. Responda: O Docker usa uma interface CLI para gerenciar os seus vários objetos através de comandos. O que faz os comandos abaixo:  
     1. `docker run`:
 
-       > é usado para executar um container Docker.
+       > É usado para executar um container Docker.
 
     2. `docker build`:
 
-       > é usado para construir uma imagem.
+       > É usado para construir uma imagem.
 
     3. `docker pull`:
 
-       > é usado para baixar uma imagem Docker de um repositório remoto, como o Docker Hub.
+       > É usado para baixar uma imagem Docker de um repositório remoto, como o Docker Hub.
 
     4. `docker push`:
 
@@ -64,39 +64,39 @@ Responda as seguintes questões:
 
     6. `docker images`:
 
-       > é usado para listar todas as imagens que estão armazenadas no host Docker local.
+       > É usado para listar todas as imagens que estão armazenadas no host Docker local.
 
     7. `docker stop`:
 
-       > é usado para parar a execução de um container Docker em execução.
+       > É usado para parar a execução de um container..
 
     8. `docker start`:
 
-       > é usado para iniciar a execução de um container Docker que foi previamente criado.
+       > É usado para iniciar a execução de um container Docker que foi previamente criado.
 
     9. `docker rm`:
 
-       > é usado para remover um container Docker.
+       > É usado para remover um container Docker.
 
     10. `docker rmi`:
 
-        > é usado para remover uma imagem Docker do *host* local.
+        > É usado para remover uma imagem Docker do *host* local.
 
     11. `docker exec`:
 
-        > é usado para executar um comando dentro de um container que já está em execução.
+        > É usado para executar um comando dentro de um container que já está em execução.
 
     12. `docker logs`:
 
-        > é usado para exibir os *logs* de um container que já está em execução.
+        > É usado para exibir os *logs* de um container que já está em execução.
 
     13. `docker network`:
 
-        > é usado para gerenciar redes. 
+        > É usado para gerenciar redes. 
 
     14. `docker volume`:
    
-        > é usado para gerenciar volumes.
+        > É usado para gerenciar volumes.
 
 
 Registre as respostas a esse questionário do seu GitHub e poste o *link* da atividade no Classroom.
