@@ -1,18 +1,17 @@
-**Instituto Federal de Educação, Ciência e Tecnologia do Ceará**
+<p align="center">
+<img src="https://github.com/PabloBF/asr_tele/assets/55034604/3d498a05-6b17-434b-bc1d-dd3cec5616dc" alt="IFCE" width="100"/>
+</p>
 
-***Campus* Fortaleza**
+<p align="center"><b>Instituto Federal de Educação, Ciência e Tecnologia do Ceará</b><br>
+<b><i>Campus</i> Fortaleza</b><br>
+<b>Tecnologia em Telemática</b></p>
 
-**Tecnologia em Telemática**
+<p align="center">
+Carlos Gabriel Sacramento<br>
+Cícera Márcia da Fonseca Silva<br>
+Pablo Busatto</p>
 
-2 de dezembro de 2023
-
-Alunos:
-
-**Carlos Gabriel Sacramento** (mat. 20221013020190)
-
-**Cícera Márcia da Fonseca Silva** (mat. 20222013020016)
-
-**Pablo Busatto** (mat. 20221013020042)
+<p align="center">2 de dezembro de 2023</p>
 
 # Avaliação 10 – MQTT
 
